@@ -117,7 +117,7 @@
             <img src="assets/imgs/logo/site-logo-light.png" class="show-dark" alt="Offcanvas Logo">
             <img src="assets/imgs/logo/site-logo-dark.png" class="show-light" alt="Offcanvas Logo">
           </a>
-          <p>Create live segments and target the right people for messages based on their behaviors.</p>
+          {{-- <p>Create live segments and target the right people for messages based on their behaviors.</p> --}}
         </div>
         <div class="offcanvas__menu-area d-block">
           <div class="offcanvas__menu-wrapper"></div>
